@@ -81,6 +81,7 @@ Table grain
 
 ###### Repository Structure
 
+```text
 sql_datawarehouse_project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -104,18 +105,17 @@ sql_datawarehouse_project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-
+```
 ---
 
 ###### Technologies
-SQL Server
-SSMS
-T-SQL
-GitHub
-Draw.io
-CSV
-Medallion Architecture
-Dimensional Modelling
+- SQL Server
+- SSMS
+- T-SQL
+- GitHub
+- Draw.io
+- Medallion Architecture
+- Dimensional Modelling
 
 ---
 
