@@ -23,6 +23,8 @@ Fact and dimension tables
 Star schema
 Analytical datasets
 
+---
+
 ### Technical Scope
 SQL
 T-SQL
@@ -49,6 +51,8 @@ Table grain
 Primary & foreign keys
 Analytical data structures
 
+---
+
 #### Business Scenario
 
 Operational data from ERP and CRM systems is integrated into a central warehouse to support:
@@ -58,6 +62,8 @@ Product performance
 Sales analysis
 Trend analysis
 Business reporting
+
+---
 
 ##### Data Quality
 
@@ -70,6 +76,8 @@ Row counts
 Join behaviour
 Source-to-target reconciliation
 Table grain
+
+---
 
 ###### Repository Structure
 
@@ -97,6 +105,8 @@ sql_datawarehouse_project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 
+---
+
 ###### Technologies
 SQL Server
 SSMS
@@ -106,6 +116,8 @@ Draw.io
 CSV
 Medallion Architecture
 Dimensional Modelling
+
+---
 
 ###### About Me 
 
