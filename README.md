@@ -121,4 +121,8 @@ sql_datawarehouse_project/
 
 ###### About Me 
 
-I am an IT professional with experience across major incident management, change governance, service resilience, reporting and data-focused initiatives.
+I am an IT professional with experience across **major incident management, change governance, service resilience, reporting and data-focused initiatives**.
+
+This repository demonstrates a hands-on application of **data engineering, data modelling and data architecture principles**, covering the journey from **source data to business-ready analytical information**.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/michael-oloda-9791a5259)
